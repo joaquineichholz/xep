@@ -8,8 +8,8 @@ export default function App() {
   return (
     <BrowserRouter>
     <div className="App">
-      <Route exact path="/"component={Login}/>
-      <Route exact path="/home"component={Sheet}/>
+      <Route exact path="/xep/"component={Login}/>
+      <Route exact path="/xep/home"component={Sheet}/>
     </div>
     </BrowserRouter>
 
