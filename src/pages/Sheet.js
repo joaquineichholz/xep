@@ -86,11 +86,6 @@ export default function Sheet() {
                     <td> {element["Email"]} </td>
                 </tr>
             )}
-                <tr key={100}> 
-                <td> {"id Op"}</td>
-                <td> {"Tasa"}</td>
-                <td> {"Email"}</td>
-            </tr>
             </tbody>
         </table>
 
